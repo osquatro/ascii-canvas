@@ -1,0 +1,17 @@
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/Command.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/canvas/AsciiCanvas.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/CommandLineManager.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/ValidationException.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/LineCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/QuitCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/common/ValidationUtil.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/RectangleCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/CommandFactory.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/AbstractCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/MalformedCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/CanvasCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/common/Constants.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/canvas/CanvasIOException.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/Main.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/cli/command/FillCommand.java
+/Users/zhosan/workspace/ascii-canvas/src/main/java/org/creditsuisse/common/TypeParser.java

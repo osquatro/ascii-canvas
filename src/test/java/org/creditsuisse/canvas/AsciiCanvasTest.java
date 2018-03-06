@@ -119,6 +119,5 @@ public class AsciiCanvasTest {
         }
         assertEquals(emptyCanvas20x4, buffer.toString());
         new File(out).delete();
-
     }
 }

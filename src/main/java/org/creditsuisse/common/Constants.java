@@ -16,6 +16,7 @@ public final class Constants {
 
     public static final String MESSAGES_FILE = "messages";
     public static final String UNKNOWN_OR_MALFORMED_COMMAND_ERROR = "unknown.or.malformed.command";
+    public static final String COMMAND_ARGUMENTS_MALFORMED = "command.arguments.malformed";
     public static final String CANVAS_NOT_CREATED_ERROR = "canvas.not.created";
     public static final String ONLY_HORIZONTAL_OR_VERTICAL_LINES_ARE_SUPPORTED_ERROR = "horizontal.or.vertical.lines";
     public static final String CANVAS_SIZE_NOT_VALID_ERROR = "canvas.size.not.valid";
