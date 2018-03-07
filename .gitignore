@@ -1,7 +1,9 @@
 # User-specific stuff:
+.idea
 .idea/**/workspace.xml
 .classpath
 .project
 .settings/
 target/
+*.iml
 
