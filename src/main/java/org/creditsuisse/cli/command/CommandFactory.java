@@ -1,6 +1,5 @@
 package org.creditsuisse.cli.command;
 
-import org.apache.commons.lang.StringUtils;
 import org.creditsuisse.cli.CommandLineManager;
 import org.creditsuisse.cli.ValidationException;
 
@@ -82,7 +81,7 @@ public class CommandFactory {
     }
 
     private CommandCode getCommand(String commandString) {
-        return StringUtils.isEmpty(commandString) ?
+        return (null == commandString || commandString.length() == 0) ?
             CommandCode.MALFORMED :
                 CommandCode.fromString(String.valueOf(commandString.charAt(0)));
     }
